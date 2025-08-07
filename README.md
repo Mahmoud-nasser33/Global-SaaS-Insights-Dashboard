@@ -37,9 +37,5 @@ The dashboard includes the following key metrics:
 - **Tableau** (Data Visualization)
 - **OpenStreetMap** (Map Layer)
 
-
-
-
-
-## 📁 Files Included
+The dataset is not included due to licensing/sensitivity. Dashboard created for demo/portfolio purposes.
 
